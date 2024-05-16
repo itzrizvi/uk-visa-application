@@ -1,2 +1,3 @@
 Flask==3.0.3
+pydyf==0.10.0
 weasyprint==62.1
