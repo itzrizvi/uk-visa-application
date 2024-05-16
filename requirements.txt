@@ -4,7 +4,7 @@ bcc==0.1.10
 beautifulsoup4==4.10.0
 beniget==0.4.1
 blinker==1.8.2
-Brlapi==0.8.3
+Brlapi==0.7.0
 Brotli==1.0.9
 certifi==2024.2.2
 cffi==1.16.0
